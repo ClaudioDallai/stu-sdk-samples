@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\visio\\Documents\\Versioning\\stu-sdk-samples\\samples\\csharp\\DemoButtons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37E67980-1809-473B-8DE7-B36D18A1BAAF}|DemoButtons.csproj|c:\\users\\visio\\documents\\versioning\\stu-sdk-samples\\samples\\csharp\\demobuttons\\signatureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E67980-1809-473B-8DE7-B36D18A1BAAF}|DemoButtons.csproj|solutionrelative:signatureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E67980-1809-473B-8DE7-B36D18A1BAAF}|DemoButtons.csproj|c:\\users\\visio\\documents\\versioning\\stu-sdk-samples\\samples\\csharp\\demobuttons\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E67980-1809-473B-8DE7-B36D18A1BAAF}|DemoButtons.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignatureForm.cs",
+              "DocumentMoniker": "C:\\Users\\visio\\Documents\\Versioning\\stu-sdk-samples\\samples\\csharp\\DemoButtons\\SignatureForm.cs",
+              "RelativeDocumentMoniker": "SignatureForm.cs",
+              "ToolTip": "C:\\Users\\visio\\Documents\\Versioning\\stu-sdk-samples\\samples\\csharp\\DemoButtons\\SignatureForm.cs",
+              "RelativeToolTip": "SignatureForm.cs",
+              "ViewState": "AgIAAMsDAAAAAAAAAAAAABkEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:20:26.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\visio\\Documents\\Versioning\\stu-sdk-samples\\samples\\csharp\\DemoButtons\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\visio\\Documents\\Versioning\\stu-sdk-samples\\samples\\csharp\\DemoButtons\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T10:20:19.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

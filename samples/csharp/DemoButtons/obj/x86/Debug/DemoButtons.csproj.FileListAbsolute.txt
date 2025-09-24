@@ -1,0 +1,6 @@
+C:\Users\visio\Documents\Versioning\stu-sdk-samples\samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.csproj.AssemblyReference.cache
+C:\Users\visio\Documents\Versioning\stu-sdk-samples\samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.DemoButtonsForm.resources
+C:\Users\visio\Documents\Versioning\stu-sdk-samples\samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.MyEncryptionHandler2.resources
+C:\Users\visio\Documents\Versioning\stu-sdk-samples\samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.Properties.Resources.resources
+C:\Users\visio\Documents\Versioning\stu-sdk-samples\samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.csproj.GenerateResource.cache
+C:\Users\visio\Documents\Versioning\stu-sdk-samples\samples\csharp\DemoButtons\obj\x86\Debug\DemoButtons.csproj.CoreCompileInputs.cache
